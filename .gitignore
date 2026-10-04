@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Secrets and environment variables
+.env
+.env.local
+
+# CLI local repo data
+.myGit/
+
+# Local file uploads
+uploads/
+
+# Temporary / test files
+commit.json
+test.txt
